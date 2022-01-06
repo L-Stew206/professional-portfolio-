@@ -11,9 +11,6 @@
     --dark-grey: #31343d; 
 }
     
-   
-    
-
 body {
     background-color: lightblue;
 }
@@ -119,9 +116,6 @@ main {
     cursor: pointer;
     flex-wrap: wrap;
     text-align: center;
-
-
-
 } 
   /* #bottom-images img{ 
         
@@ -167,12 +161,10 @@ main {
 
 
 .info {
-    color: pink;
+    color:black;
     bottom: 10px;
     padding: 4px;
     position: absolute;
-    
-     
 }
 
 .website {
@@ -190,20 +182,3 @@ main {
 /* moble screen size */
 @media screen and (max-width: 880px) {
     
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
